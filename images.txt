@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 jenkins/jenkins:2.361.2-lts
+jenkins/jenkins:2.452.2-lts
