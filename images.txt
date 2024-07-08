@@ -7,3 +7,5 @@ nginx
 
 jenkins/jenkins:2.361.2-lts
 jenkins/jenkins:2.452.2-lts
+wurstmeister/zookeeper
+wurstmeister/kafka
