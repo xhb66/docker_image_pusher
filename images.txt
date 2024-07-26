@@ -9,3 +9,5 @@ jenkins/jenkins:2.361.2-lts
 jenkins/jenkins:2.452.2-lts
 wurstmeister/zookeeper
 wurstmeister/kafka
+gitlab/gitlab-ce:16.11.7-ce.0
+gitlab/gitlab-ce:17.2.1-ce.0
