@@ -17,3 +17,4 @@ postgres:16
 kindest/node:v1.29.4
 dependencytrack/apiserver
 dependencytrack/frontend
+jenkins/jenkins:2.256
