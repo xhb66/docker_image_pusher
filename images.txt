@@ -13,6 +13,7 @@ gitlab/gitlab-ce:16.11.7-ce.0
 gitlab/gitlab-ce:17.2.1-ce.0
 
 mysql:5.6
+mysql:8.4.2
 postgres:16
 kindest/node:v1.29.4
 dependencytrack/apiserver
