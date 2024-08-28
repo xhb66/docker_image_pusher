@@ -12,6 +12,7 @@ wurstmeister/kafka
 gitlab/gitlab-ce:16.11.7-ce.0
 gitlab/gitlab-ce:17.2.1-ce.0
 
+mongo:4.2
 mysql:5.6
 mysql:8.4.2
 postgres:16
