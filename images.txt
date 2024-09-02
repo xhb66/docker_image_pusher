@@ -20,3 +20,4 @@ kindest/node:v1.29.4
 dependencytrack/apiserver
 dependencytrack/frontend
 jenkins/jenkins:2.256
+jenkins/jenkins:latest-jdk17
