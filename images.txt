@@ -5,19 +5,10 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-jenkins/jenkins:2.361.2-lts
-jenkins/jenkins:2.452.2-lts
 wurstmeister/zookeeper
 wurstmeister/kafka
-gitlab/gitlab-ce:16.11.8-ce.0
-gitlab/gitlab-ce:17.3.1-ce.0
-
 mongo:4.2
 mysql:5.6
 mysql:8.4.2
 postgres:16
-kindest/node:v1.29.4
-dependencytrack/apiserver
-dependencytrack/frontend
-jenkins/jenkins:2.256
-jenkins/jenkins:latest-jdk17
+gitlab/gitlab-ce:17.3.5-ce.0
