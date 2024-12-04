@@ -5,16 +5,7 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#wurstmeister/zookeeper
-#wurstmeister/kafka
-#mongo:4.2
-#mysql:5.6
-#bitnami/zookeeper
-#bitnami/kafka
-instantlinux/spamassassin
-#postgres:16
-#gitlab/gitlab-ce:17.3.5-ce.0
-#shuiche/mind-map
+
 gitlab-ce:17.3.7-ce.0
 gitlab-ce:17.5.3-ce.0
 gitlab-ce:17.6.1-ce.0
